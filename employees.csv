@@ -1,0 +1,4 @@
+﻿name,email,department,position,salary
+Alice Smith,alice@example.com,Engineering,Developer,85000
+Bob Brown,bob@example.com,Sales,Manager,70000
+Carol White,carol@example.com,HR,Recruiter,60000
