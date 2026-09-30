@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Smith",
+    "email": "alice@example.com",
+    "department": "Engineering",
+    "position": "Developer",
+    "salary": 85000.0,
+    "created_at": "2026-09-30T10:55:57.896619+00:00",
+    "updated_at": "2026-09-30T10:55:57.896619+00:00"
+  },
+  {
+    "id": 2,
+    "name": "Bob Brown",
+    "email": "bob@example.com",
+    "department": "Sales",
+    "position": "Manager",
+    "salary": 70000.0,
+    "created_at": "2026-09-30T10:55:57.896917+00:00",
+    "updated_at": "2026-09-30T10:55:57.896917+00:00"
+  },
+  {
+    "id": 3,
+    "name": "Carol White",
+    "email": "carol@example.com",
+    "department": "HR",
+    "position": "Recruiter",
+    "salary": 60000.0,
+    "created_at": "2026-09-30T10:55:57.897155+00:00",
+    "updated_at": "2026-09-30T10:55:57.897155+00:00"
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "email": "emily.johnson@x.dummyjson.com",
+    "department": "Engineering",
+    "position": "Sales Manager",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.258613+00:00",
+    "updated_at": "2026-09-30T10:59:43.258613+00:00"
+  },
+  {
+    "id": 5,
+    "name": "Michael Williams",
+    "email": "michael.williams@x.dummyjson.com",
+    "department": "Support",
+    "position": "Support Specialist",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.259250+00:00",
+    "updated_at": "2026-09-30T10:59:43.259250+00:00"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Brown",
+    "email": "sophia.brown@x.dummyjson.com",
+    "department": "Research and Development",
+    "position": "Accountant",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.259836+00:00",
+    "updated_at": "2026-09-30T10:59:43.259836+00:00"
+  },
+  {
+    "id": 7,
+    "name": "James Davis",
+    "email": "james.davis@x.dummyjson.com",
+    "department": "Support",
+    "position": "Research Analyst",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.260401+00:00",
+    "updated_at": "2026-09-30T10:59:43.260401+00:00"
+  },
+  {
+    "id": 8,
+    "name": "Emma Miller",
+    "email": "emma.miller@x.dummyjson.com",
+    "department": "Human Resources",
+    "position": "Quality Assurance Engineer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.260981+00:00",
+    "updated_at": "2026-09-30T10:59:43.260981+00:00"
+  },
+  {
+    "id": 9,
+    "name": "Olivia Wilson",
+    "email": "olivia.wilson@x.dummyjson.com",
+    "department": "Product Management",
+    "position": "Research Analyst",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.261595+00:00",
+    "updated_at": "2026-09-30T10:59:43.261595+00:00"
+  },
+  {
+    "id": 10,
+    "name": "Alexander Jones",
+    "email": "alexander.jones@x.dummyjson.com",
+    "department": "Engineering",
+    "position": "Web Developer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.262111+00:00",
+    "updated_at": "2026-09-30T10:59:43.262111+00:00"
+  },
+  {
+    "id": 11,
+    "name": "Ava Taylor",
+    "email": "ava.taylor@x.dummyjson.com",
+    "department": "Marketing",
+    "position": "Chief Executive Officer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.262624+00:00",
+    "updated_at": "2026-09-30T10:59:43.262624+00:00"
+  },
+  {
+    "id": 12,
+    "name": "Ethan Martinez",
+    "email": "ethan.martinez@x.dummyjson.com",
+    "department": "Support",
+    "position": "Legal Counsel",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.263132+00:00",
+    "updated_at": "2026-09-30T10:59:43.263132+00:00"
+  },
+  {
+    "id": 13,
+    "name": "Isabella Anderson",
+    "email": "isabella.anderson@x.dummyjson.com",
+    "department": "Marketing",
+    "position": "Chief Financial Officer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.263639+00:00",
+    "updated_at": "2026-09-30T10:59:43.263639+00:00"
+  },
+  {
+    "id": 14,
+    "name": "Liam Garcia",
+    "email": "liam.garcia@x.dummyjson.com",
+    "department": "Services",
+    "position": "Web Developer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.264138+00:00",
+    "updated_at": "2026-09-30T10:59:43.264138+00:00"
+  },
+  {
+    "id": 15,
+    "name": "Mia Rodriguez",
+    "email": "mia.rodriguez@x.dummyjson.com",
+    "department": "Accounting",
+    "position": "Business Analyst",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.264659+00:00",
+    "updated_at": "2026-09-30T10:59:43.264659+00:00"
+  },
+  {
+    "id": 16,
+    "name": "Noah Hernandez",
+    "email": "noah.hernandez@x.dummyjson.com",
+    "department": "Engineering",
+    "position": "Database Administrator",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.265166+00:00",
+    "updated_at": "2026-09-30T10:59:43.265166+00:00"
+  },
+  {
+    "id": 17,
+    "name": "Charlotte Lopez",
+    "email": "charlotte.lopez@x.dummyjson.com",
+    "department": "Accounting",
+    "position": "Chief Executive Officer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.265843+00:00",
+    "updated_at": "2026-09-30T10:59:43.265843+00:00"
+  },
+  {
+    "id": 18,
+    "name": "William Gonzalez",
+    "email": "william.gonzalez@x.dummyjson.com",
+    "department": "Marketing",
+    "position": "Software Architect",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.266372+00:00",
+    "updated_at": "2026-09-30T10:59:43.266372+00:00"
+  },
+  {
+    "id": 19,
+    "name": "Avery Perez",
+    "email": "avery.perez@x.dummyjson.com",
+    "department": "Accounting",
+    "position": "Database Administrator",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.266901+00:00",
+    "updated_at": "2026-09-30T10:59:43.266901+00:00"
+  },
+  {
+    "id": 20,
+    "name": "Evelyn Sanchez",
+    "email": "evelyn.sanchez@x.dummyjson.com",
+    "department": "Support",
+    "position": "Chief Financial Officer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.267409+00:00",
+    "updated_at": "2026-09-30T10:59:43.267409+00:00"
+  },
+  {
+    "id": 21,
+    "name": "Logan Torres",
+    "email": "logan.torres@x.dummyjson.com",
+    "department": "Training",
+    "position": "Data Analyst",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.267921+00:00",
+    "updated_at": "2026-09-30T10:59:43.267921+00:00"
+  },
+  {
+    "id": 22,
+    "name": "Abigail Rivera",
+    "email": "abigail.rivera@x.dummyjson.com",
+    "department": "Human Resources",
+    "position": "Business Analyst",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.268432+00:00",
+    "updated_at": "2026-09-30T10:59:43.268432+00:00"
+  },
+  {
+    "id": 23,
+    "name": "Jackson Evans",
+    "email": "jackson.evans@x.dummyjson.com",
+    "department": "Legal",
+    "position": "Web Developer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.268957+00:00",
+    "updated_at": "2026-09-30T10:59:43.268957+00:00"
+  },
+  {
+    "id": 24,
+    "name": "Madison Collins",
+    "email": "madison.collins@x.dummyjson.com",
+    "department": "Engineering",
+    "position": "Chief Technology Officer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.269464+00:00",
+    "updated_at": "2026-09-30T10:59:43.269464+00:00"
+  },
+  {
+    "id": 25,
+    "name": "Elijah Stewart",
+    "email": "elijah.stewart@x.dummyjson.com",
+    "department": "Legal",
+    "position": "Business Analyst",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.269967+00:00",
+    "updated_at": "2026-09-30T10:59:43.269967+00:00"
+  },
+  {
+    "id": 26,
+    "name": "Chloe Morales",
+    "email": "chloe.morales@x.dummyjson.com",
+    "department": "Sales",
+    "position": "Database Administrator",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.270826+00:00",
+    "updated_at": "2026-09-30T10:59:43.270826+00:00"
+  },
+  {
+    "id": 27,
+    "name": "Mateo Nguyen",
+    "email": "mateo.nguyen@x.dummyjson.com",
+    "department": "Accounting",
+    "position": "Business Analyst",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.271417+00:00",
+    "updated_at": "2026-09-30T10:59:43.271417+00:00"
+  },
+  {
+    "id": 28,
+    "name": "Harper Kelly",
+    "email": "harper.kelly@x.dummyjson.com",
+    "department": "Legal",
+    "position": "Business Development Manager",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.271966+00:00",
+    "updated_at": "2026-09-30T10:59:43.271966+00:00"
+  },
+  {
+    "id": 29,
+    "name": "Evelyn Gonzalez",
+    "email": "evelyn.gonzalez@x.dummyjson.com",
+    "department": "Accounting",
+    "position": "Project Manager",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.272501+00:00",
+    "updated_at": "2026-09-30T10:59:43.272501+00:00"
+  },
+  {
+    "id": 30,
+    "name": "Daniel Cook",
+    "email": "daniel.cook@x.dummyjson.com",
+    "department": "Support",
+    "position": "Legal Counsel",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.273182+00:00",
+    "updated_at": "2026-09-30T10:59:43.273182+00:00"
+  },
+  {
+    "id": 31,
+    "name": "Lily Lee",
+    "email": "lily.lee@x.dummyjson.com",
+    "department": "Product Management",
+    "position": "Quality Assurance Engineer",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.273809+00:00",
+    "updated_at": "2026-09-30T10:59:43.273809+00:00"
+  },
+  {
+    "id": 32,
+    "name": "Henry Hill",
+    "email": "henry.hill@x.dummyjson.com",
+    "department": "Services",
+    "position": "Sales Manager",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.274364+00:00",
+    "updated_at": "2026-09-30T10:59:43.274364+00:00"
+  },
+  {
+    "id": 33,
+    "name": "Addison Wright",
+    "email": "addison.wright@x.dummyjson.com",
+    "department": "Services",
+    "position": "Human Resources Manager",
+    "salary": 50000.0,
+    "created_at": "2026-09-30T10:59:43.274906+00:00",
+    "updated_at": "2026-09-30T10:59:43.274906+00:00"
+  },
+  {
+    "id": 34,
+    "name": "David Miller",
+    "email": "david.miller@example.com",
+    "department": "Engineering",
+    "position": "Backend Developer",
+    "salary": 92000.0,
+    "created_at": "2026-09-30T11:27:27.635576+00:00",
+    "updated_at": "2026-09-30T11:27:27.635576+00:00"
+  },
+  {
+    "id": 35,
+    "name": "Emma Wilson",
+    "email": "emma.wilson@example.com",
+    "department": "Engineering",
+    "position": "QA Engineer",
+    "salary": 78000.0,
+    "created_at": "2026-09-30T11:27:27.635722+00:00",
+    "updated_at": "2026-09-30T11:27:27.635722+00:00"
+  },
+  {
+    "id": 36,
+    "name": "Frank Castle",
+    "email": "frank.castle@example.com",
+    "department": "Sales",
+    "position": "Account Executive",
+    "salary": 68000.0,
+    "created_at": "2026-09-30T11:27:27.635850+00:00",
+    "updated_at": "2026-09-30T11:27:27.635850+00:00"
+  },
+  {
+    "id": 37,
+    "name": "Grace Hopper",
+    "email": "grace.hopper@example.com",
+    "department": "Research",
+    "position": "Data Scientist",
+    "salary": 105000.0,
+    "created_at": "2026-09-30T11:27:27.635973+00:00",
+    "updated_at": "2026-09-30T11:27:27.635973+00:00"
+  },
+  {
+    "id": 38,
+    "name": "Henry Ford",
+    "email": "henry.ford@example.com",
+    "department": "Operations",
+    "position": "Operations Manager",
+    "salary": 88000.0,
+    "created_at": "2026-09-30T11:27:27.636100+00:00",
+    "updated_at": "2026-09-30T11:27:27.636100+00:00"
+  },
+  {
+    "id": 39,
+    "name": "Isabel Cruz",
+    "email": "isabel.cruz@example.com",
+    "department": "Marketing",
+    "position": "Content Strategist",
+    "salary": 64000.0,
+    "created_at": "2026-09-30T11:27:27.636225+00:00",
+    "updated_at": "2026-09-30T11:27:27.636225+00:00"
+  },
+  {
+    "id": 40,
+    "name": "Jack Turner",
+    "email": "jack.turner@example.com",
+    "department": "Finance",
+    "position": "Financial Analyst",
+    "salary": 71000.5,
+    "created_at": "2026-09-30T11:27:27.636392+00:00",
+    "updated_at": "2026-09-30T11:27:27.636392+00:00"
+  },
+  {
+    "id": 41,
+    "name": "Karen Patel",
+    "email": "karen.patel@example.com",
+    "department": "HR",
+    "position": "HR Generalist",
+    "salary": 59000.0,
+    "created_at": "2026-09-30T11:27:27.636528+00:00",
+    "updated_at": "2026-09-30T11:27:27.636528+00:00"
+  },
+  {
+    "id": 42,
+    "name": "Liam Brooks",
+    "email": "liam.brooks@example.com",
+    "department": "Engineering",
+    "position": "DevOps Engineer",
+    "salary": 96000.0,
+    "created_at": "2026-09-30T11:27:27.697895+00:00",
+    "updated_at": "2026-09-30T11:27:27.697895+00:00"
+  },
+  {
+    "id": 43,
+    "name": "Mia Chen",
+    "email": "mia.chen@example.com",
+    "department": "Design",
+    "position": "UX Designer",
+    "salary": 82000.0,
+    "created_at": "2026-09-30T11:27:27.698100+00:00",
+    "updated_at": "2026-09-30T11:27:27.698100+00:00"
+  },
+  {
+    "id": 44,
+    "name": "Noah Davis",
+    "email": "noah.davis@example.com",
+    "department": "Sales",
+    "position": "Sales Manager",
+    "salary": 91500.0,
+    "created_at": "2026-09-30T11:27:27.698285+00:00",
+    "updated_at": "2026-09-30T11:27:27.698285+00:00"
+  },
+  {
+    "id": 45,
+    "name": "Olivia Reed",
+    "email": "olivia.reed@example.com",
+    "department": "Finance",
+    "position": "Accountant",
+    "salary": 72000.0,
+    "created_at": "2026-09-30T11:27:27.698466+00:00",
+    "updated_at": "2026-09-30T11:27:27.698466+00:00"
+  },
+  {
+    "id": 46,
+    "name": "Paul Walker",
+    "email": "paul.walker@example.com",
+    "department": "Operations",
+    "position": "Logistics Lead",
+    "salary": 66000.0,
+    "created_at": "2026-09-30T11:27:27.698644+00:00",
+    "updated_at": "2026-09-30T11:27:27.698644+00:00"
+  },
+  {
+    "id": 47,
+    "name": "Quinn Adams",
+    "email": "quinn.adams@example.com",
+    "department": "HR",
+    "position": "Recruiter",
+    "salary": 58500.0,
+    "created_at": "2026-09-30T11:27:27.698820+00:00",
+    "updated_at": "2026-09-30T11:27:27.698820+00:00"
+  },
+  {
+    "id": 48,
+    "name": "Rita Sanchez",
+    "email": "rita.sanchez@example.com",
+    "department": "Marketing",
+    "position": "Brand Manager",
+    "salary": 77000.0,
+    "created_at": "2026-09-30T11:27:27.698998+00:00",
+    "updated_at": "2026-09-30T11:27:27.698998+00:00"
+  },
+  {
+    "id": 49,
+    "name": "Sam Lee",
+    "email": "sam.lee@example.com",
+    "department": "Research",
+    "position": "Research Analyst",
+    "salary": 84000.0,
+    "created_at": "2026-09-30T11:27:27.699172+00:00",
+    "updated_at": "2026-09-30T11:27:27.699172+00:00"
+  }
+]
