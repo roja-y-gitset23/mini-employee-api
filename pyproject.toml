@@ -39,3 +39,5 @@ src = ["src", "tests"]
 select = ["E", "F", "I", "B"]
 # FastAPI's Depends()/Query()/File() defaults are intentional
 ignore = ["B008"]
+
+
